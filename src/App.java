@@ -9,7 +9,7 @@ public class App {
         System.out.println("Ohjelman tekijä: " + nimi);
 
         String luku1 = "1";
-        String luku2  = "3";
+        String luku2  = "4";
 
         System.out.println(luku1);
         System.out.println("Luku1-muuttujan arvo on " + luku1);
