@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33017066/README.md)
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
