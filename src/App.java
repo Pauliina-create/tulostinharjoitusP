@@ -7,7 +7,6 @@ public class App {
         String nimi = "Katri";
         String ikä = "20";
 
-        System.out.println("Ohjelman tekijä: " + nimi);
 
         String luku1 = "1";
         String luku2  = "4";
