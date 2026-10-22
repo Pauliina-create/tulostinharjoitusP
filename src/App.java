@@ -5,6 +5,7 @@ public class App {
         System.out.println("Ohjelman tekijä");
 
         String nimi = "Katri";
+        String ikä = "20";
 
         System.out.println("Ohjelman tekijä: " + nimi);
 
